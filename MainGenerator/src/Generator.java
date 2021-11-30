@@ -4,7 +4,7 @@ public class Generator {
 	static String[] listaOpzioni;
 
 	static Scanner input=new Scanner(System.in);
-	
+	//ciao
 	public static void main(String argv[]) {
 		System.out.print("Quante opzione vuoi dare al tuo programma? ");
 		quanteOpzioni=Integer.parseInt(input.nextLine());
